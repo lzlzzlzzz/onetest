@@ -1,0 +1,5 @@
+npm install vue-cli -g （vue-lcli2)
+npm install -g @vue/cli (vue-cli3）
+vue create test_vue
+vite创建
+npm create vue@latest
